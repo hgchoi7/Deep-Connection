@@ -4,8 +4,13 @@ This code is made for the Hackerton race on 23th Aug. 2016.
 We utilized open source code[1-2] for traffic controller.
 We also utilized KAIST benchmark[3] for analyzing the results.
 
+Prerequision Toolbox
+-Matconvnet
+-Caffe
+-Vlfeat
+-KAIST AM05 / AM11
+
 How to use?
-*
 *
 *
 
